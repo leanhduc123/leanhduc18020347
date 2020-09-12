@@ -1,1 +1,2 @@
-# leanhduc18020347
+# This repository is belong to <your name>.
+Under the collaboration of:
